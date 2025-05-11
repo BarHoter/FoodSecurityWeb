@@ -1,4 +1,5 @@
-```mermaid flowchart TD
+```mermaid
+flowchart TD
     A[דף כניסה<br>index.html] --> B{סוג משתמש}
     B -- רגיל --> C[דף ראשי<br>dashboard.html]
     B -- foodgod --> D[דף ניהול<br>management.html]
